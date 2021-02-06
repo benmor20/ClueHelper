@@ -1,0 +1,16 @@
+package data;
+
+public enum Room implements ClueCard {
+	COURTYARD,
+	GAZEBO,
+	DRAWING_ROOM,
+	DINING_ROOM,
+	KITCHEN,
+	CARRIAGE_HOUSE,
+	TROPHY_ROOM,
+	CONSERVATORY,
+	STUDIO,
+	BILLIARD_ROOM,
+	LIBRARY,
+	FOUNTAIN;
+}
